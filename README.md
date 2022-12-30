@@ -1,3 +1,4 @@
+
 currencyconversion.java
 package currencyconversion;
 import java.util.*;
@@ -84,9 +85,9 @@ km=sc.nextDouble();
 miles=(km*0.621371);
 System.out.println(km+"km" +"equal to"+miles+"miles");
 }
-}timer.java
+}
+timer.java
 package timeconversion;
-
 import java.util.*;
 public class timer
 {
@@ -142,7 +143,6 @@ Scanner s=new Scanner(System.in);
 int choice,ch;
 currency c=new currency();
 distance d=new distance();
-
 timer t=new timer();
 do
 {
